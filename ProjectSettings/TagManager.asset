@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Hazzard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3682301997
+    locked: 0
+  - name: Tilemap
+    uniqueID: 1821264035
+    locked: 0
+  - name: Entities
+    uniqueID: 589062779
+    locked: 0
+  - name: Player
+    uniqueID: 3689504027
+    locked: 0
+  - name: Forground
+    uniqueID: 1175605355
+    locked: 0
+  - name: BackgroundUI
+    uniqueID: 3794297351
+    locked: 0
+  - name: MidgroundUI
+    uniqueID: 820384687
+    locked: 0
+  - name: ForgroundUI
+    uniqueID: 998804533
+    locked: 0
